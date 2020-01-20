@@ -1,1 +1,1 @@
-# Honework projects in the MVA class of Deep Learning. Teacher : Vincent Lepetit.
+# Homework projects in the MVA class of Deep Learning. Teacher : Vincent Lepetit.
